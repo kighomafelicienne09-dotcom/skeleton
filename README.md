@@ -4,4 +4,4 @@ This repository is dedicated to test the [`new:site`](https://cecil.app/document
 
 [![Build & deploy website](https://github.com/Cecilapp/skeleton/actions/workflows/website.yml/badge.svg)](https://github.com/Cecilapp/skeleton/actions/workflows/website.yml)
 
-Demo: https://cecilapp.github.io/skeleton/
+Demo: <http://demo.cecil.app/skeleton/>
