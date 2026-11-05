@@ -24,6 +24,7 @@ Je suis passionnee par le web et l'informatique.
 - L'informatique
 
 ## Mes projets
+Merci de visiter mon site !
 
 1. Mon premier site avec Cecil
 2. Apprendre HTML, CSS et PHP
